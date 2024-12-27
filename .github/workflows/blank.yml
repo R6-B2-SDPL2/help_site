@@ -1,5 +1,5 @@
 name: github pages
-
+permissions: read-all
 on:
   push:
     branches:
