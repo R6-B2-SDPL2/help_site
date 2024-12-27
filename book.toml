@@ -6,7 +6,7 @@ src = "./"
 title = "社用車運行管理システム"
 
 [build]
-build-dir = "docs"
+build-dir = "books"
 create-missing = false
 
 [output.html]
